@@ -1,3 +1,6 @@
 indent_style = "Block"
-hard_tabs = true
+hard_tabs = false
+tab_spaces = 2
 empty_item_single_line = false
+max_width = 120
+use_small_heuristics = "Max"
